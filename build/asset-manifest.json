@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Paginated-UsersList/static/css/main.f2525926.chunk.css",
+    "main.js": "/Paginated-UsersList/static/js/main.952570f3.chunk.js",
+    "main.js.map": "/Paginated-UsersList/static/js/main.952570f3.chunk.js.map",
+    "runtime-main.js": "/Paginated-UsersList/static/js/runtime-main.719793fb.js",
+    "runtime-main.js.map": "/Paginated-UsersList/static/js/runtime-main.719793fb.js.map",
+    "static/js/2.e2151691.chunk.js": "/Paginated-UsersList/static/js/2.e2151691.chunk.js",
+    "static/js/2.e2151691.chunk.js.map": "/Paginated-UsersList/static/js/2.e2151691.chunk.js.map",
+    "index.html": "/Paginated-UsersList/index.html",
+    "static/css/main.f2525926.chunk.css.map": "/Paginated-UsersList/static/css/main.f2525926.chunk.css.map",
+    "static/js/2.e2151691.chunk.js.LICENSE.txt": "/Paginated-UsersList/static/js/2.e2151691.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.719793fb.js",
+    "static/js/2.e2151691.chunk.js",
+    "static/css/main.f2525926.chunk.css",
+    "static/js/main.952570f3.chunk.js"
+  ]
+}
